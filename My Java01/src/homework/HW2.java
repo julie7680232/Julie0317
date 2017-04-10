@@ -1,5 +1,5 @@
 package homework;
-
+//
 public class HW2 {
 	public static void main(String[] args) {
 		int i,j,k;
